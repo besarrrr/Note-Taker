@@ -12,6 +12,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ![Sample Image](./media/Screenshot%202022-07-24%20110846.png)
 
+## Heroku Deploy
+
+https://shielded-woodland-71145.herokuapp.com/notes 
+
 ## Installation 
 The user should clone the repository from GitHub and download Node. This application also requires a file system. Run npm init in terminal to make sure all dependencies are being used. 
 
