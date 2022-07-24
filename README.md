@@ -18,6 +18,3 @@ https://shielded-woodland-71145.herokuapp.com/notes
 
 ## Installation 
 The user should clone the repository from GitHub and download Node. This application also requires a file system. Run npm init in terminal to make sure all dependencies are being used. 
-
-## Questions
-If you have any questions about this projects, please contact me directly at:  gcesar13@yahoo.com
